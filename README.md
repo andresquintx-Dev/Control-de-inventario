@@ -1,1 +1,1 @@
-You must run the main.py file inside a folder with its classes in the same folder. The database will be generated automatically and will be kept in the folder where the program was run.
+You must run the main.py file within a folder containing its classes. The database will be automatically generated and maintained in the folder where the program was run. For more information, see the documentation. If you encounter additional errors, you can email us using the information in the documentation file.
